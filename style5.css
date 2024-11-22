@@ -1,0 +1,97 @@
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-top-left-radius: 30px;
+}
+.b{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-top-right-radius: 30px;
+}
+.c{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-bottom-right-radius: 30px;
+}
+.d{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-bottom-left-radius: 30px;
+}
+.e{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.f{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10px;
+
+}
+.g{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 25px;
+}
+.h{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 1%;
+}
+.b1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 10%;
+}
+.c1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 25%;
+}
+.d1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 50%;
+}
+.e1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 20px 0;
+}
+.f1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 40px 0;
+}
+.g1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 80px 0;
+}
+.h1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 100px 0;
+}
